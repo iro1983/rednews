@@ -1,0 +1,10 @@
+{
+  "date": "2025-12-02",
+  "trends": [],
+  "reddit": [
+    "未配置 Reddit API，跳过抓取"
+  ],
+  "google": [
+    "抓取出错: The request failed: Google returned a response with code 404"
+  ]
+}
